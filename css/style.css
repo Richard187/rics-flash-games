@@ -1,0 +1,21 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+.flash_game_link {
+	border: 1px solid #aaa;
+	display: inline-block;
+	margin: 10px;
+	padding: 5px;
+}
+.flash_game_link_image {
+	width: 200px;
+	border: 1px solid black;
+}
+.flash_game_link:hover {
+	background-color: #ffff;
+	box-shadow: 60px 60px 20px #444444;
+}
